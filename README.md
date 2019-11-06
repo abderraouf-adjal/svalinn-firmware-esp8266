@@ -46,6 +46,22 @@ An IEEE 802.11-based WLAN (Wi-Fi) will be used to configure the device by a web 
   - A command to get X.509 SHA-1 fingerprint by OpenSSL and Bash:
     * `$ openssl s_client -connect "io.adafruit.com:8883" < /dev/null 2>/dev/null | openssl x509 -fingerprint -sha1 -noout -in /dev/stdin`
 
+
+## Prototype pictures:
+### Hardware prototype:
+![Hardware prototype](pics/Hardware_prototype.png)
+
+### Configuration panel:
+![Configuration panel](pics/Configuration_panel.png)
+
+### MQTT panel Android app:
+![Android MQTT panel app 1](pics/Android_MQTT_panel_app_1.png)
+![Android MQTT panel app 2](pics/Android_MQTT_panel_app_2.png)
+![Android MQTT panel app 3](pics/Android_MQTT_panel_app_3.png)
+![Android MQTT panel app 4](pics/Android_MQTT_panel_app_4.png)
+![Android MQTT panel app 5](pics/Android_MQTT_panel_app_5.png)
+
+
 ## Reporting bugs.
 
 [Create an issue on GitHub](https://github.com/abderraouf-adjal/svalinn-firmware-esp8266).
