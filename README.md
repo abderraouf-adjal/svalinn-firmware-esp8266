@@ -48,17 +48,17 @@ An IEEE 802.11-based WLAN (Wi-Fi) will be used to configure the device by a web 
 
 ### Prototype pictures:
 #### Hardware prototype:
-![Hardware prototype](pics/Hardware prototype.png)
+![Hardware prototype](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Hardware prototype.png)
 
 #### Configuration panel:
-![Configuration panel](pics/Configuration panel.png)
+![Configuration panel](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Configuration panel.png)
 
 #### MQTT panel Android app:
-![Android MQTT panel app 1](pics/Android MQTT panel app 1.png)
-![Android MQTT panel app 2](pics/Android MQTT panel app 2.png)
-![Android MQTT panel app 3](pics/Android MQTT panel app 3.png)
-![Android MQTT panel app 4](pics/Android MQTT panel app 4.png)
-![Android MQTT panel app 5](pics/Android MQTT panel app 5.png)
+![Android MQTT panel app 1](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Android MQTT panel app 1.png)
+![Android MQTT panel app 2](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Android MQTT panel app 2.png)
+![Android MQTT panel app 3](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Android MQTT panel app 3.png)
+![Android MQTT panel app 4](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Android MQTT panel app 4.png)
+![Android MQTT panel app 5](https://raw.githubusercontent.com/abderraouf-adjal/svalinn-firmware-esp8266/master/pics/Android MQTT panel app 5.png)
 
 ## Reporting bugs.
 
