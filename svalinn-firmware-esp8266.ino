@@ -174,7 +174,6 @@ static const size_t SV_MQTT_TOPIC_ALARM_MAX_LEN = SV_MQTT_TOPIC_CTRL_MAX_LEN;
 //#endif
 
 //#ifndef WIFI_MANAGER_MAX_PARAMS
-///* Socket and MQTT connect() timeout interval in seconds. */
 //# define WIFI_MANAGER_MAX_PARAMS 11
 //#else
 //# error "WIFI_MANAGER_MAX_PARAMS is pre-defined."
