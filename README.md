@@ -51,15 +51,8 @@ An IEEE 802.11-based WLAN (Wi-Fi) will be used to configure the device by a web 
 ### Hardware prototype:
 ![Hardware prototype](pics/Hardware_prototype.png)
 
-### Configuration panel:
-![Configuration panel](pics/Configuration_panel.png)
-
-### MQTT panel Android app:
-![Android MQTT panel app 1](pics/Android_MQTT_panel_app_1.png)
-![Android MQTT panel app 2](pics/Android_MQTT_panel_app_2.png)
-![Android MQTT panel app 3](pics/Android_MQTT_panel_app_3.png)
-![Android MQTT panel app 4](pics/Android_MQTT_panel_app_4.png)
-![Android MQTT panel app 5](pics/Android_MQTT_panel_app_5.png)
+### MQTT App and Configuration panel:
+![MQTT App and Configuration panel](pics/MQTT_App_and_Configuration_panel.png)
 
 
 ## Reporting bugs.
