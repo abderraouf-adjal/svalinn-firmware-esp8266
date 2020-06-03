@@ -1,6 +1,7 @@
+/* SPDX-License-Identifier: ISC */
 /* svalinn-firmware-esp8266 source code beginning. */
 /**
- * Copyright (c) 2019 Abderraouf Adjal <abderraouf.adjal@gmail.com>
+ * Copyright (c) 2019 Abderraouf Adjal
  *
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above
@@ -18,8 +19,8 @@
 /**
  * Project name: svalinn-firmware-esp8266
  * Project version: v0.9.1 / 2019-09-17
- * License: The ISC license.
- * Authors information: Abderraouf Adjal <abderraouf.adjal@gmail.com>.
+ * License: ISC License.
+ * Authors information: Abderraouf Adjal
  *
  * Svalinn: An IoT indoor alarm system.
  * This system can be controlled by any MQTT connected device 

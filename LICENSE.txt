@@ -1,9 +1,6 @@
-svalinn-firmware-esp8266
-License: The ISC license.
+ISC License:
 
-================================================================
-
-Copyright (c) 2019 Abderraouf Adjal <abderraouf.adjal@gmail.com>
+Copyright (c) 2019 Abderraouf Adjal
 
 Permission to use, copy, modify, and distribute this software for any
 purpose with or without fee is hereby granted, provided that the above
